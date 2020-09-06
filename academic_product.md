@@ -19,4 +19,4 @@ After doing all this, I asked my math teacher if this was a valid way to solve t
 
 Anyway, I still wanted to try solving the problem by hand, so I just used a grid of elves and categories with all possible values for each cell written in, which I could slowly eliminate one by one. This final attempt gave me the correct answer in about an eighth of the time I spent programming, ~10-15 minutes. 
 
-Oh well. ¯\_(ツ)_/¯
+Oh well. ¯\\\_(ツ)\_/¯
