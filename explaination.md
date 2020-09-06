@@ -15,4 +15,4 @@ After doing all this, I asked you if this was a valid way to solve the problem, 
 
 Anyway, I just used a similar strategy as my first attempt, only with a different chart including all possible values for that cell, which I could slowly eliminate one by one. This final attempt gave me the correct answer in about a quarter of the time spent programming, ~10-15 minutes. 
 
-¯\\_(ツ)_/¯
+¯\\\_(ツ)\_/¯
